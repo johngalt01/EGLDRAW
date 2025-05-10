@@ -16,6 +16,6 @@ MDRAW2 is a simple drawing enviroment
 
 EGLDRAW is a sample display program to show how EGL files are displayed and allows for manipulation of Scale, X-Y Transition, and simple reflection and rotation in 90 degree increments.
 
-IGLTOEGL is a simple file converter to take existing IGL And make i EGL format.
+IGLTOEGL is a simple file converter to take existing IGL And make EGL format.
 
 
