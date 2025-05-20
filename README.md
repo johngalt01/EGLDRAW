@@ -4,6 +4,9 @@ EGL is an updated image format based off IGL
 
 coming soon.
 
+Holding off on MDRAW2 because i want to incorporate a Sprite Menu and i have not had time to implement.
+
+
 the scope of this project is for the FABGL ANSI Terminal.
 it is an image format that uses the FABGL shape primatives and colors to fast draw pixels, lines, circles, boxes to the terminal screen.
 
