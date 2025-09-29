@@ -32,9 +32,13 @@ P/p Paintbrush mode
 
 'Backspace' removes last element placed.
 
-The left mouse button is used to place a start and end point for the element. used for paintbrush mode. 
+Left mouse button is used to place a start and end point for the element. used for paintbrush mode. 
 
-right mouse button will change available color. it will also back out an element selection. so you can select a new element to place.
+Right mouse button back out an element selection so you can select a new element to place.
+
+Middle mouse button will change available color.
+
+There will be a text notification on the upper left to let you know what mode you have selected.
 
 * limit to 500 elements * keep in mind the more elements the slower the screen draw. you want to keep scenes simple for game making.
 
