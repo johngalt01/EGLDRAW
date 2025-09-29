@@ -7,18 +7,26 @@ MDRAW2.COM is the drawing program i have not gotten around to completing the int
 You will need a fabgl Ansi Terminal and a mouse to use.
 
 The COMMANDS ARE:
+
 Q/q to quit.
+
 L/l create a line.
+
 B/b create a box.
+
 C/c create a Circle.
+
 E/e Create an ellipse.
 
 T/t Create a fill Box.
+
 S/s Create a fill Circle.
+
 R/r Create a Fill Ellipse.
 
 D/d Clears the Entire work space and starts over.
-] redraws the workspace does not start over. its like a screen refresh.
+
+']' redraws the workspace does not start over. its like a screen refresh.
 
 P/p Paintbrush mode
 
