@@ -1,11 +1,40 @@
 # EGLDRAW
+
+9/28/2025
+
+MDRAW2.COM is the drawing program i have not gotten around to completing the interface but i wanted to post it finally.
+
+You will need a fabgl Ansi Terminal and a mouse to use.
+
+The COMMANDS ARE:
+Q/q to quit.
+L/l create a line.
+B/b create a box.
+C/c create a Circle.
+E/e Create an ellipse.
+
+T/t Create a fill Box.
+S/s Create a fill Circle.
+R/r Create a Fill Ellipse.
+
+D/d Clears the Entire work space and starts over.
+] redraws the workspace does not start over. its like a screen refresh.
+
+P/p Paintbrush mode
+
+'Backspace' removes last element placed.
+
+The left mouse button is used to place a start and end point for the element. used for paintbrush mode. 
+
+right mouse button will change available color. it will also back out an element selection. so you can select a new element to place.
+
+* limit to 500 elements * keep in mind the more elements the slower the screen draw. you want to keep scenes simple for game making.
+
+* Poly and fill poly was not implemented due to future GEOFF terminal port. *
+
+---
 EGL is an updated image format based off IGL
-
-
-coming soon.
-
-Holding off on MDRAW2 because i want to incorporate a Sprite Menu and i have not had time to implement.
-
+----
 
 the scope of this project is for the FABGL ANSI Terminal.
 it is an image format that uses the FABGL shape primatives and colors to fast draw pixels, lines, circles, boxes to the terminal screen.
