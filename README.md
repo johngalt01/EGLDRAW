@@ -34,7 +34,7 @@ Default mode is always pixel placement.
 
 'Backspace' removes last element placed.
 
-Left mouse button is used to place a start and end point for the element. used for paintbrush mode. 
+Left mouse button is used to place a start and end point for the element. used for pixel placement mode. 
 
 Right mouse button back out an element selection so you can select a new element to place.
 
