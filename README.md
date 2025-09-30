@@ -30,6 +30,8 @@ D/d Clears the Entire work space and starts over.
 
 P/p Paintbrush mode
 
+Default mode is always pixel placement.
+
 'Backspace' removes last element placed.
 
 Left mouse button is used to place a start and end point for the element. used for paintbrush mode. 
